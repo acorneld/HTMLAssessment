@@ -46,6 +46,10 @@ li > ol :first-child{
   font-weight: bold;
 }
 
-[tr]{
-  color:blue;
+tr {
+  background-color: green;
+}
+
+tr + tr{
+  background-color: red;
 }
