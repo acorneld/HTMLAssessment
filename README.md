@@ -22,6 +22,7 @@ src
 for
 name
 value
+<br></br>
 <tfoot></tfoot>
 <ul></ul>
 <ol></ol>
@@ -29,3 +30,7 @@ value
 <form></form>
 <label></label>
 <input></input>
+
+Lessons Learned
+
+Putting all the data into a table before worrying about alignment was my major setback.  HTML always can turn into a blob rather quickly so using human readable spaces and other things to help label and identify is important.
